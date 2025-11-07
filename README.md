@@ -126,6 +126,7 @@ This document outlines the step-by-step process for deploying a 2-tier web appli
   sudo tee /etc/apt/sources.list.d/jenkins.list > /dev/null
   sudo apt update -y
 sudo apt install -y jenkins
+
     ```
 
 3.  **Start and Enable Jenkins Service:**
